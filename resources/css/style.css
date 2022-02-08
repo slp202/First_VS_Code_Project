@@ -1,0 +1,8 @@
+main {
+    background-image: url(/resources/images/colorful.jpg);
+    height: 80vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
